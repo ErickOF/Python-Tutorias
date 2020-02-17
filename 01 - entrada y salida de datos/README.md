@@ -47,4 +47,5 @@
 * type()
 * zip()
 
-https://docs.python.org/3/library/functions.html
+## Enlaces de interés
+* Teoría: https://docs.python.org/3/library/functions.html
